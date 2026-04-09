@@ -1,0 +1,30 @@
+===== CPU and Memory Usage =====
+Timestamp: Thu, Apr  9, 2026 11:29:17 AM
+monitor_cpu_memory.sh: line 7: uptime: command not found
+CPU Load (1, 5, 15 min): 
+Memory Usage:
+monitor_cpu_memory.sh: line 9: free: command not found
+Top Processes by Memory Usage:
+ps: unknown option -- sort=-%mem
+Try `ps --help' for more information.
+
+===== Disk and Network Usage =====
+Timestamp: Thu, Apr  9, 2026 11:29:18 AM
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  186G  173G   13G  94% /
+D:                    123G   51G   73G  41% /d
+E:                     47G  2.0G   45G   5% /e
+
+Network Statistics:
+monitor_disk_network.sh: line 11: ip: command not found
+
+===== Process and User Info =====
+Timestamp: Thu, Apr  9, 2026 11:29:18 AM
+Currently Logged In Users:
+
+Running Processes Count:
+ps: unknown option -- no-headers
+Try `ps --help' for more information.
+0
+
